@@ -36,4 +36,5 @@ A number of VSCode extensions are already installed:
 * [The Rustonomicon 🐙](https://doc.rust-lang.org/nomicon/)
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
 * [The Rust on ESP Book](https://esp-rs.github.io/book/)
+* [ESP-IDF-HAL examples](https://github.com/esp-rs/esp-idf-hal/blob/master/examples)
 * [The DevContainer documentation page](https://code.visualstudio.com/docs/devcontainers/containers)
