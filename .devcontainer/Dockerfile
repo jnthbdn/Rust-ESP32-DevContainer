@@ -12,4 +12,5 @@ USER vscode
 
 RUN cargo install espup ldproxy cargo-generate espflash && \
     espup install && \
-    cat $HOME/export-esp.sh >> ~/.zshrc
+    cat $HOME/export-esp.sh >> ~/.zshrc && \
+    cargo install rustfmt --force
