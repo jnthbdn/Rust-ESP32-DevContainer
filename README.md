@@ -29,3 +29,10 @@ A number of VSCode extensions are already installed:
 3. Once the container has been built and opened, you can use VSCode as normal.
 
 ℹ️ To create a new project in the container, use the following command: `cargo generate esp-rs/esp-idf-template cargo` (this template will use the `std` library, see the [Rust ESP Book] (https://esp-rs.github.io/book) if you don't want to use it).
+
+## Useful links
+* [The Rust book 🦀](https://doc.rust-lang.org/book/)
+* [The Rustonomicon 🐙](https://doc.rust-lang.org/nomicon/)
+* [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+* [The Rust on ESP Book](https://esp-rs.github.io/book/)
+* [The DevContainer documentation page](https://code.visualstudio.com/docs/devcontainers/containers)
