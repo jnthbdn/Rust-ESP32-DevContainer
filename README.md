@@ -25,7 +25,8 @@ A number of VSCode extensions are already installed:
 
 ## How to use it ?
 1. Download (or clone) the repository, then open it via VS Code, a popup should offer to launch the folder in a container, accept.
-2. VSCode restarts, and builds the container (this may take a few minutes), this action is performed only once.
+2. VSCode restarts, and builds the container (this may take a few minutes), this action is performed only once.  
+⚠️ If no popup appears, press `ctrl + shift + P` then select `Dev Containers : Reopen in Container`.
 3. Once the container has been built and opened, you can use VSCode as normal.
 
 ℹ️ To create a new project in the container, use the following command: `cargo generate esp-rs/esp-idf-template cargo` (this template will use the `std` library, see the [Rust ESP Book] (https://esp-rs.github.io/book) if you don't want to use it).
